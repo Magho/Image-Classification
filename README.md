@@ -5,8 +5,8 @@ Using deep features to build an image classifier using Graphlab
 - graphlab
 
 ## Used data set 
-[image_train_data/](link to the data you upload)
-[image_test_data/](link to the data you upload)
+- [image_train_data](https://github.com/Magho/Image-Classification/tree/master/image_train_data)
+- [image_test_data](https://github.com/Magho/Image-Classification/tree/master/image_test_data)
 
 # Algorithms used :
 -  logistic_classifier.
